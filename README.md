@@ -1,5 +1,5 @@
 <h1 align="center">Salam 👋 Bu Numpy -a girirş hissəsidir.</h1>
-<h3 align="center">Mən bu hissədə Numpy-da
+<h3 align="center">Mən bu hissədə Numpy-da\n
   Array əməliyyatları,
   Indexing və Slicing,
   Array yaratma metodları,
